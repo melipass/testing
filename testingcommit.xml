@@ -1,3 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<![CDATA[rn <script language="Javascript" type="text/javascript">alert("xss")</script>rn ]]>
-
+<x:script xmlns:x="http://www.w3.org/1999/xhtml">alert(document.domain)</x:script>
